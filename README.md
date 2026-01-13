@@ -1,6 +1,8 @@
 # Hi 👋, I'm Chun-Wei
 
-## A passionate full-stack developer from Taiwan
+A passionate full-stack developer from Taiwan
+
+---
 
 - 🔭 I’m currently working on [AI_tutor](https://github.com/woody1234567/AI_tutor_new)
 
