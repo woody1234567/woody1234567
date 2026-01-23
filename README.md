@@ -1,5 +1,7 @@
 # Hi 👋, I'm Chun-Wei
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋,%20I'm%20Chun-Wei%20👨💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 ## A passionate full-stack developer from Taiwan
 
 - 🔭 I’m currently working on [AI_tutor](https://github.com/woody1234567/AI_tutor_new)
