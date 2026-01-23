@@ -18,8 +18,6 @@
   </a>
 </p>
 
-## github stats
-
 <details open> 
   <summary><h2>🔥 GitHub Profile Stats</h2></summary>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
