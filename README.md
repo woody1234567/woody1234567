@@ -20,7 +20,7 @@
 
 ## github stats
 
-[![Woody's GitHub stats](https://github-readme-stats.vercel.app/api?username=woody1234567)](https://github.com/woody1234567)
+[![Woody's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woody1234567)](https://github.com/woody1234567)
 
 ## Languages and Tools
 
