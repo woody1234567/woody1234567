@@ -1,6 +1,4 @@
-# Hi 👋, I'm Chun-Wei
-
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋,%20I'm%20Chun-Wei%20👨💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋,%20I'm%20Chun-Wei%20💻&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
 ## A passionate full-stack developer from Taiwan
 
@@ -19,6 +17,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chun wei hsu" height="30" width="40" />
   </a>
 </p>
+
+## github stats
+
+[![Woody's GitHub stats](https://github-readme-stats.vercel.app/api?username=woody1234567)](https://github.com/woody1234567)
 
 ## Languages and Tools
 
