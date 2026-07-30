@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [AI_tutor](https://github.com/woody1234567/AI_tutor_new)
 
-- 🌱 I’m currently learning **langgraph, langchain**
+- 🌱 I’m currently learning **java, spring-boot**
 
 - 💬 Ask me about **Vue, Nuxt**
 
@@ -67,3 +67,9 @@
     <img src="https://skillicons.dev/icons?i=latex,md,matlab,r,regex" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring" />
+  </a>
+</p> 
